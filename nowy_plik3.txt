@@ -1,2 +1,6 @@
 nowy plik pierwsza linijka
+<<<<<<< HEAD
 wcale nie druga
+=======
+druga linijka 
+>>>>>>> 0f514b866638555ccd95f7362b6d4da2e034c372
