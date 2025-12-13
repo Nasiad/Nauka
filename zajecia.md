@@ -15,4 +15,4 @@ kod zródłowy
 ---
 [link do github](https://github.com/Nasiad/Nauka)
 ![zdjecie na zajecia](zajecia.jpg)
-![volvo](https://www.autocar.co.uk/car-news/used-car-buying-guides/volvo-s60-r)
+
