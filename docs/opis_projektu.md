@@ -1,1 +1,36 @@
+# Tytuł
+- Aplikacja do planowania nauki i organizacji zadań
+
+Krótki opis (nagłówek pod tytułem)
+- Narzędzie wspierające studentów w organizacji nauki i zadań, ze skupieniem na prostocie i użyteczności.
+
+Cel projektu
+- Rozwiązanie problemu braku struktury i przeładowania informacjami podczas studiów.
+- Ułatwienie zarządzania czasem i postępem nauki.
+
+Funkcje dodatkowe (mniejsze elementy)
+- Powiadomienia o terminach
+- Szablony zadań
+- Synchronizacja podstawowa (opcjonalnie)
+
+Zakres projektu
+- Mini-projekt zaliczeniowy.
+- MVP: lista zadań + kalendarz tygodniowy + podstawowe statystyki.
+
+Narzędzia i praktyki
+- Kontrola wersji: Git, GitHub
+- Zarządzanie zadaniami: Trello
+- Dokumentacja: Markdown
+- CI/CD: proste pipeline'y do testów i wdrożeń
+
+Plan rozwoju (krótkie etapy)
+1. Analiza wymagań i makiety (1–2 dni)
+2. Implementacja MVP (lista zadań + kalendarz) (1–2 tyg.)
+3. Dodanie statystyk i powiadomień (1 tydz.)
+4. Testy, dokumentacja, konfiguracja CI/CD (kilka dni)
+5. Prezentacja/zaliczenie
+
+Wynik końcowy / oczekiwania
+- Funkcjonalna aplikacja ułatwiająca planowanie nauki.
+- Repozytorium z kodem, dokumentacją i prostym pipeline CI/CD.
 
