@@ -14,3 +14,4 @@ tekst pod 1 nagłówkiem
 kod zródłowy
 ---
 [link do github](https://github.com/Nasiad/Nauka)
+![zdjecie na zajecia](zajecia.jpg)
