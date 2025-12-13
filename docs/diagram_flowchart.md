@@ -1,4 +1,4 @@
-"""mermaid
+'''mermaid
 flowchart TD
     START([START]) --> A[1. Analiza wymagań]
     A --> B[2. Projekt design]
