@@ -1,4 +1,4 @@
-# i. Inspiracje (słowa, skojarzenia, pomysły)
+# 1. Inspiracje (słowa, skojarzenia, pomysły)
 - minimalizm, prostota, szybkość
 - edukacja, mikro-nauka, ścieżki rozwoju
 - grywalizacja, nagrody, wyzwania
@@ -10,7 +10,7 @@
 - IoT, sensoring, integracje z urządzeniami
 - AR/VR, immersja, interakcja
 
-# ii. Krótka lista elementów projektów
+# 2. Krótka lista elementów projektów
 - interfejs użytkownika (dashboard, mobilny + web)
 - moduł autoryzacji i profili
 - baza danych i model domenowy
@@ -22,7 +22,7 @@
 - testy jednostkowe i CI/CD
 - dokumentacja i przykładowe dane
 
-# iii. Wstępne dane wejściowe (np. lista kategorii, lista funkcji)
+# 3. Wstępne dane wejściowe (np. lista kategorii, lista funkcji)
 - Kategorie: edukacja, zdrowie, produktywność, rozrywka, e-commerce, społeczność
 - Role użytkowników: gość, użytkownik, moderator, administrator
 - Funkcje podstawowe:
