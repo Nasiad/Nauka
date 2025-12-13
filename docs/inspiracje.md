@@ -50,3 +50,4 @@
 
 ---
 Krótka sugestia następnych kroków: wybrać 1–2 kluczowe inspiracje, zdefiniować minimalny MVP (3–5 funkcji) i przygotować przykładowe scenariusze użytkownika.
+---
