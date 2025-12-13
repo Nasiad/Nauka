@@ -20,4 +20,10 @@ kod zródłowy
 | wierzez zebra | dalej tabel         |    $1 |
 [link do github](https://github.com/Nasiad/Nauka)
 ![zdjecie na zajecia](zajecia.jpg)
+```mermaid
+flowchart TD
+ A[diagram] --> B[pyk pyk]
+ B --> C[dalej diagram]
+ C --> D[juz nie]
+```
 
