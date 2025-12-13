@@ -13,6 +13,11 @@ tekst pod 1 nagłówkiem
 ---
 kod zródłowy
 ---
+| Tabela        | pierwsza            | pyk   |
+| ------------- |:-------------------:| -----:|
+| tutaj 1       | tutaj 1222231414142 | 00000 |
+| kolumna       | VOLVO               |999999 |
+| wierzez zebra | dalej tabel         |    $1 |
 [link do github](https://github.com/Nasiad/Nauka)
 ![zdjecie na zajecia](zajecia.jpg)
 
